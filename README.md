@@ -31,6 +31,7 @@ Currently indexed 200,000+ unique servers since February 2025.
 - Entity position tracking
 - Player placed block detection (e.g diamond blocks, wood planks etc etc)
 - Web map discovery (Dynmap, BlueMap, etc.)
+- Misconfigured Bungeecord detection (UUID spoofing)
 
 ## Requirements (If I ever release it)
 
