@@ -18,7 +18,7 @@ ServerFinder scans the internet for Minecraft servers by targeting IP blocks own
 
 The scanner finds servers by:
 - Pulling IP blocks from ASN databases (OVH, Hetzner, AWS, etc.)
-- Port scanning common Minecraft ports
+- Port scanning common Minecraft ports (to bypass honeypots we just start the handshake with an absurd client version and see what the server responds with)
 - Picking ranges at random so its less likely to come across duplicates (we already check every ip it scans against db)
 - Filtering results based on connection patterns
 
