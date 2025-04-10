@@ -6,7 +6,7 @@ ServerFinder scans the internet for Minecraft servers by targeting IP blocks own
 
 ## Technical details
 - Built on [MCProtocolLib](https://github.com/GeyserMC/MCProtocolLib) with [ViaVersion](https://github.com/ViaVersion/ViaVersion) integration
-- Connects to servers across all versions (1.8.x through 1.21.x) (Currently Native 1.21.4 (769) )
+- Connects to servers across all versions (1.8.x through 1.21.x) (Currently Native 1.21.5 (770) )
 - Supports full online mode authentication (premium accounts)
 - Netty pipeline modifications specifically for ViaVersion support 
 - Multi threaded scanning (zoom perofmrnac)
