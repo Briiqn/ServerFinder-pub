@@ -52,7 +52,6 @@ Currently indexed 240,000+ unique servers since February 2025.
 ### System Status
 - Status: **Operational**
 - Last update: Friday, 30 May 2025 19:36
-- Next update: in 15 seconds
 
 ## Requirements (If I ever release it)
 - Java 11+
